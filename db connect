@@ -32,7 +32,7 @@ if (!$conn) {
 echo "Connected successfully";
 ?>
 
-#example pdo 
+#example PDO
 
 <?php
 $servername = "localhost";
