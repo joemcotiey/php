@@ -1,4 +1,4 @@
-#example mysqli
+#example mysqli procedural
 
 <?php
 $servername = "localhost";
