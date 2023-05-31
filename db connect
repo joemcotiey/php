@@ -1,3 +1,5 @@
+#example pdo 
+
 <?php
 $servername = "localhost";
 $username = "username";
