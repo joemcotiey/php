@@ -1,3 +1,6 @@
+The switch statement is used to perform different actions based on different conditions.
+
+
 switch (n) {
   case label1:
     code to be executed if n=label1;
