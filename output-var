@@ -1,6 +1,4 @@
 //The PHP echo statement is often used to output data to the screen
 <?php
 
-$txt = "W3Schools.com";
-echo "I love $txt!";
-?>
+
