@@ -3,7 +3,6 @@
 //echo can take multiple parameters (although such usage is rare) while print can take one argument. echo is marginally faster than print
 
 
-
 <?php
 echo "<h2>PHP is Fun!</h2>";
 echo "Hello world!<br>";
