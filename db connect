@@ -15,7 +15,6 @@ echo "Connected successfully";
 ?>
 #example mysqli procedural
 
-
 <?php
 $servername = "localhost";
 $username = "username";
