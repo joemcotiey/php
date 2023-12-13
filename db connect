@@ -17,7 +17,6 @@ echo "Connected successfully";
 
 
 
-
 <?php
 $servername = "localhost";
 $username = "username";
