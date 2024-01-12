@@ -2,7 +2,6 @@
 #A cookie is created with the setcookie() function.
 
 
-
 <?php
 $cookie_name = "user";
 $cookie_value = "John Doe";
