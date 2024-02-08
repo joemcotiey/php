@@ -1,3 +1,4 @@
+
 #example mysqli object oriented
 <?php
 $servername = "localhost";
