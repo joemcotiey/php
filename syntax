@@ -2,7 +2,8 @@
 
 //A PHP script starts with <?php and ends with ?>:
 
-<?php
+<?PHP
+
 // PHP code goes here
 
 <title>hello title</title>
