@@ -17,4 +17,5 @@ switch (n) {
     ...
   default:
     code to be executed if n is different from all labels;
+
 }
