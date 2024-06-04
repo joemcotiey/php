@@ -8,7 +8,6 @@ echo "Hello world!<br>";
 echo "Iknow PHP!<br>";
 echo "This ", "string ", "was ", "made ", "with multiple parameters.";
 
-
 ?>
 
 //The print statement can be used with or without parentheses: print or print()
