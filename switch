@@ -14,7 +14,7 @@ switch (n) {
   case label3:
     code to be executed if n=label3;
     break;
-    ...
+    
   default:
     code to be executed if n is different from all labels;
 
