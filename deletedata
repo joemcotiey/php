@@ -17,7 +17,6 @@ if ($conn->connect_error) {
 }
 
 
-
 // sql to delete a record
 $sql = "DELETE FROM MyGuests WHERE id=3";
 
