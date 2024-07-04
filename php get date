@@ -1,4 +1,4 @@
-|#Return date/time information of the current local date/time
+#Return date/time information of the current local date/time
 
 <?PHP
 echo "Today is " . date("Y/m/d") . "<be>";
