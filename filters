@@ -3,6 +3,7 @@
 //The filter_list() function can be used to list what the PHP filter extension offers
 
 <table>
+
   <tr>
     <td>Filter Name</td>
     <td>Filter ID</td>
