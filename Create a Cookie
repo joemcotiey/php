@@ -20,7 +20,6 @@ if(!isset($_COOKIE[$cookie_name])) {
   echo "Value is: " . $_COOKIE[$cookie_name];
 }
 
-
 ?>
 </body>
 </html>
