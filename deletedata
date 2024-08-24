@@ -1,6 +1,7 @@
 //The DELETE statement is used to delete records from a table
 
-<?php
+<?PHP
+
 $servername = "localhost";
 $username = "username";
 $password = "password";
