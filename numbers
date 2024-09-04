@@ -6,7 +6,8 @@
 
 #This automatic conversion can sometimes break your code.
 
-<?php
+<?PHP
+
 $x = 5985;
 var_dump(is_int($x));
 
