@@ -15,7 +15,6 @@
     echo '<tr><td>' . $filter . '</td><td>' . filter_id($filter) . '</td></tr>';
   }
 
-
 ?>
 </table>
 <table>
