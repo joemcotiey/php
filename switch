@@ -2,7 +2,6 @@
 
 //Use the switch statement to select one of many blocks of code to be executed.
 
-
 switch (n) {
 
   case label1:
