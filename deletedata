@@ -7,7 +7,6 @@ $username = "username";
 
 $password = "password";
 
-
 $dbname = "myDB";
 
 // Create connection
