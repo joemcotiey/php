@@ -6,7 +6,6 @@
 
 <?PHP
 
-
 $cookie_name = "user";
 
 $cookie_value = "John Doe";
