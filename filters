@@ -1,6 +1,5 @@
 //PHP filters are used to validate and sanitize external input.
 
-
 //The PHP filter extension has many of the functions needed for checking user input and is designed to make data validation easier and quicker.
 
 
