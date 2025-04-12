@@ -6,6 +6,7 @@
 #Then, if you assign a string to the same variable, the type will change to a string.
 
 #This automatic conversion can sometimes break your code.
+
 < ?PHP
 
 $x = 5985;
