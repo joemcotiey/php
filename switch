@@ -4,7 +4,6 @@
 
 switch (n) {
 
-
   case label1:
     code to be executed if n=label1;
     break;
