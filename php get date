@@ -6,7 +6,6 @@ echo "Today is " . date("Y/m/d") . "<be>";
 
 echo "Today is " . date("Y.m.d") . "<be
 
-
 echo "Today is " . date("Y-m-d") . "<be>";
 
 
