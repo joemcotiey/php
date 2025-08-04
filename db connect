@@ -5,6 +5,7 @@
 
 $servername = "localhost";
 $username = "username";
+
 $password = "password";
 
 // Create connection
