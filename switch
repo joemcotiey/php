@@ -10,6 +10,7 @@ switch (n) {
     code to be executed if n=label1;
     break;
 
+
   case label2:
     code to be executed if n=label2;
     break;
