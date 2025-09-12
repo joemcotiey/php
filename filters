@@ -12,7 +12,6 @@
     <td>Filter ID</td>
 
   </tr>
-
   <?php
   foreach (filter_list() as $id =>$filter) {
 
