@@ -2,6 +2,7 @@
 #In PHP, a variable starts with the $ sign, followed by the name of the variable:
 
 <?PHP
+
 $txt = "Hello world!";
 
 $x = 5;
